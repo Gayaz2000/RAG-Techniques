@@ -9,4 +9,6 @@ deepeval
 langchain_huggingface
 sentence-transformers
 huggingface_hub[hf_xet]
+langchain_ollama
+duckduckgo-search
 #ipykernel
